@@ -3,7 +3,7 @@ description: Describes how to call APIs from server processes using the Client C
 ---
 # Client Credentials Grant
 
-The **Client Credentials Grant** (defined in [RFC 6749, section 4.4](https://tools.ietf.org/html/rfc6749#section-4.4)) allows an application to request an Access Token using its __Client Id__ and __Client Secret__. This is used in non interactive applications (a CLI, a daemon, or a Service running on your backend) where the token is issued to the application itself, instead of an end user.
+The **Client Credentials Grant** (defined in [RFC 6749, section 4.4](https://tools.ietf.org/html/rfc6749#section-4.4)) allows an application to request an Access Token using its __Client Id__ and __Client Secret__. It is used for non interactive applications (a CLI, a daemon, or a Service running on your backend) where the token is issued to the application itself, instead of an end user.
 
 In order to be able to perform the Client Credentials Grant, the application needs to have the [Client Credentials grant type](/applications/application-grant-types) enabled. Machine to machine applications and regular web applications have it enabled by default. 
 
