@@ -47,10 +47,10 @@ For more information, refer to [User consent and third-party applications](/api-
 
 ### Calling APIs from a Service (machine-to-machine)
 
-We implemented the OAuth 2.0 Client Credentials grant which allows applications to authenticate as themselves (that is, not on behalf of any user), in order to programatically and securely obtain access to an API.
+We implemented the OAuth 2.0 Client Credentials grant which allows applications to authenticate as themselves (that is, not on behalf of any user), in order to programmatically and securely obtain access to an API.
 
 ::: note
-For more information on the Client Credentials grant, refer to [Calling APIs from a Service](/api-auth/grant/client-credentials).
+For more information on the Client Credentials grant, refer to [How to Implement the Client Credentials Grant](/api-auth/tutorial/client-credentials).
 :::
 
 ## What is Changing

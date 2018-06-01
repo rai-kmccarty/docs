@@ -105,10 +105,10 @@ Using Auth0, you can easily support different flows in your own APIs without wor
         <i class="icon icon-budicon-695"></i><a href="/api-auth/grant/client-credentials">Overview of the flow</a>
       </li>
       <li>
-        <i class="icon icon-budicon-695"></i><a href="/api-auth/config/using-the-auth0-dashboard">How to set up a Client Credentials Grant using the Dashboard</a>
+        <i class="icon icon-budicon-695"></i><a href="/api-auth/config/using-the-auth0-dashboard">How to set up a Client Grant using the Dashboard</a>
       </li>
       <li>
-        <i class="icon icon-budicon-695"></i><a href="/api-auth/config/using-the-management-api">How to set up a Client Credentials Grant using the Management API</a>
+        <i class="icon icon-budicon-695"></i><a href="/api-auth/config/using-the-management-api">How to set up a Client Grant using the Management API</a>
       </li>
       <li>
         <i class="icon icon-budicon-695"></i><a href="/api-auth/config/asking-for-access-tokens">How to execute a Client Credentials Grant</a>
