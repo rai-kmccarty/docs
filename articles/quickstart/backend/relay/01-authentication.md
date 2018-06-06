@@ -1,6 +1,10 @@
 ---
 title: Authentication
 description: This tutorial will show you how to use Auth0 to add authentication to your Relay API.
+tags:
+    - quickstart
+    - backend
+    - relay-api
 ---
 
 <%= include('../../../_includes/_api_auth_intro') %>

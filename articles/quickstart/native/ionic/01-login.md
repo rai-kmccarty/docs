@@ -3,6 +3,10 @@ title: Login
 default: true
 description: This tutorial demonstrates how to add authentication and authorization to an Ionic app
 budicon: 448
+tags:
+  - quickstarts
+  - native
+  - ionic
 ---
 
 <%= include('../../../_includes/_package', {
