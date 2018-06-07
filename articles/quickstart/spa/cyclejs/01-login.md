@@ -3,6 +3,10 @@ title: Login
 default: true
 description: This tutorial will show you how to use the Auth0 Cycle.js driver to add authentication and authorization to your web app.
 budicon: 448
+tags:
+  - quickstarts
+  - spa
+  - cyclejs
 ---
 
 <%= include('../../../_includes/_package', {

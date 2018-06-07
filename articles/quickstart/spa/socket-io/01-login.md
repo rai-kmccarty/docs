@@ -2,6 +2,10 @@
 title: Login
 description: This tutorial demonstrates how to use the Auth0 Socket.io SDK to add authentication and authorization to your web app
 budicon: 448
+tags:
+  - quickstarts
+  - spa
+  - socket-io
 ---
 
 ## 1. Set up the Allowed Origin (CORS) in Auth0
