@@ -1,5 +1,8 @@
 ---
 description: A Refresh Token allows an application to request Auth0 to issue a new id_token directly, without needing to re-authenticate the user.
+tags:
+  - tokens
+  - refresh-tokens
 ---
 
 # Refresh Token
